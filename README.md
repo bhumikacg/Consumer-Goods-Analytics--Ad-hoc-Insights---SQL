@@ -10,13 +10,12 @@ Here’s a glimpse of my SQL project analysing **2M+** records for **Sales, Fina
 
 For AtliQ, the **customers** are stores like Croma, Best Buy, and Flipkart, while the **consumers** are the end users of the products.
 
-The project focuses on **solving business problems** across Sales, Finance, and Supply Chain domains using **advanced SQL** concepts such as **Joins, CTEs, Views, Stored Procedures, and Window Functions**.
+The project focuses on **solving business problems** across Sales, Finance, and Supply Chain domains using **advanced SQL** concepts such as **Joins, CTEs, Views, Stored Procedures,Window Functions,Events,Triggers**.
 
 
 
 ### 🔑 Key Outcomes:
 
-- **OCR** (Occupancy Rate) - Total Rooms occupied / Total Available Rooms
 
 -•	⭐️Gained hands-on experience with **Advanced SQL concepts:** **Joins, CTEs, Views, Stored Procedures, Window Functions.**
 
