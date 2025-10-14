@@ -26,5 +26,6 @@ The project focuses on **solving business problems** across Sales, Finance, and 
 
 
 
-**LinkedIn Post:** https://www.linkedin.com/feed/update/urn:li:ugcPost:7354404192582619136/
+**LinkedIn Post:** https://www.linkedin.com/feed/update/urn:li:activity:7383725138669871104/
+
 
