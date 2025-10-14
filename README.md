@@ -17,11 +17,11 @@ The project focuses on **solving business problems** across Sales, Finance, and 
 ### 🔑 Key Outcomes:
 
 
--•	⭐️Gained hands-on experience with **Advanced SQL concepts:** **Joins, CTEs, Views, Stored Procedures, Window Functions.**
+⭐️Gained hands-on experience with **Advanced SQL concepts:** **Joins, CTEs, Views, Stored Procedures, Window Functions.**
 
--•	⭐️Designed  **automated analytical reports** and **business insights for large-scale datasets.**
+⭐️Designed  **automated analytical reports** and **business insights for large-scale datasets.**
 
--•	⭐️Strengthened understanding of **Sales, Finance, and Supply Chain analytics.**
+⭐️Strengthened understanding of **Sales, Finance, and Supply Chain analytics.**
 
 
 
