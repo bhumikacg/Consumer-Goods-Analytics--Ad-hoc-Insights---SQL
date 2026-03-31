@@ -1,4 +1,4 @@
-# 📊 My SQL Learning – AtliQ Hardware Advanced SQL Analytics
+# 📊 AtliQ Hardware - Consumer Goods Analytics - Ad-hoc Insights (SQL)
 
 
 
