@@ -1,6 +1,9 @@
 # 📊 AtliQ Hardware - Consumer Goods Analytics - Ad-hoc Insights (SQL)
 
+**LinkedIn Post -**  _[Consumer Goods Analytics ](https://www.linkedin.com/feed/update/urn:li:activity:7383725138669871104/)_
+ 
 
+**Slides of Project -**  _[Business Insights 360 ](https://github.com/bhumikacg/Business-Insights-360/blob/main/Business%20Insights%20-%20360.pdf)_
 
 ### 🔍 Overview:
 
@@ -26,6 +29,6 @@ The project focuses on **solving business problems** across Sales, Finance, and 
 
 
 
-**LinkedIn Post:** https://www.linkedin.com/feed/update/urn:li:activity:7383725138669871104/
+
 
 
