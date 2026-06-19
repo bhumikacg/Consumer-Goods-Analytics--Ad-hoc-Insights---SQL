@@ -3,7 +3,7 @@
 **LinkedIn Post -**  _[Consumer Goods Analytics ](https://www.linkedin.com/feed/update/urn:li:activity:7383725138669871104/)_
  
 
-**Slides of Project -**  _[Business Insights 360 ](https://github.com/bhumikacg/Business-Insights-360/blob/main/Business%20Insights%20-%20360.pdf)_
+**Slides of Project -**  _[Consumer Goods Analytics ](https://github.com/bhumikacg/Consumer-Goods-Analytics--Ad-hoc-Insights---SQL/blob/main/Slides%20of%20Consumer%20Goods%20Analytics.pdf)_
 
 ### 🔍 Overview:
 
